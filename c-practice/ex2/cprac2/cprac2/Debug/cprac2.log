@@ -1,0 +1,6 @@
+﻿  prac2.cpp
+c:\users\최효린\desktop\c++\cprac2\cprac2\prac2.cpp(16): warning C4305: '=': 'int'에서 'bool'(으)로 잘립니다.
+c:\users\최효린\desktop\c++\cprac2\cprac2\prac2.cpp(35): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+c:\users\최효린\desktop\c++\cprac2\cprac2\prac2.cpp(38): warning C4804: '>': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+c:\users\최효린\desktop\c++\cprac2\cprac2\prac2.cpp(41): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  cprac2.vcxproj -> C:\Users\최효린\Desktop\c++\cprac2\Debug\cprac2.exe
